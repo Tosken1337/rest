@@ -1,0 +1,1 @@
+INSERT INTO rest_user VALUES ('test@test.de', 'Ramesh', 'Ahmedabad', null);
